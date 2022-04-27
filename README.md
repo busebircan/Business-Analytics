@@ -1,5 +1,5 @@
-# Business Analytics
-Advanced Data Modelling for Text Data Using Sentiment Analysis and LDA Topic Modelling
+# Advanced Data Modelling for Text Data Using Sentiment Analysis and LDA Topic Modelling
+Amazon Shopping App Review Analysis
 # Objective
 Mobile application performance is one of the key indicators of customer satisfaction and thus success
 for online retailing companies in rapidly growing, dynamic and competitive e-commerce business
