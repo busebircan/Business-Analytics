@@ -42,6 +42,7 @@ from such text data consisting of reviews.
 # References
 [1] Jurafsky, D. and Martin, J., 2022. Speech and Language Processing. [online] Web.stanford.edu.
 Available at: <http://web.stanford.edu/~jurafsky/slp3/> [Accessed 31 March 2022].
+
 [2] Tong, Zhou & Zhang, Haiyi. (2016). A Text Mining Research Based on LDA Topic Modelling.
 Computer Science & Information Technology. 6. 201-210. DOI: 10.5121/csit.2016.60616. Available
 at:https://www.researchgate.net/publication/303563965_A_Text_Mining_Research_Based_on_LDA_
