@@ -3,7 +3,7 @@
 Simulation modelling is an imitation of a system providing the opportunity to detect problems and test potential
 solutions without making costly changes in real-world systems. This study aims to present an approach for how
 simulation techniques can help local business managers improve their businesses by an example implementation
-on a fiction local coffee shop system in Edinburgh. Based on several assumptions on processes and customer behaviour, outputs of the model are analysed through Process Analyzer and OptQuest optimization tools of Arena Simulation Software and recommendations on main resources which are people and tables in this case are reported as conclusions with the objective of increasing business's sales revenue.
+on a fictional local coffee shop system in Edinburgh. Based on several assumptions on processes and customer behaviour, outputs of the model are analysed through Process Analyzer and OptQuest optimization tools of Arena Simulation Software and recommendations on main resources which are people and tables in this case are reported as conclusions with the objective of increasing business's sales revenue.
 # Input Data
 Input data includes customer arrival rates, process times for order receipt, order preparation and delivery, table
 cleaning and also seizing table and sojourn for the customers, resource capacities and prices for served products and probability assumptions on customer decisions e.g. whether to order or not, whether to wait for a table or not.
