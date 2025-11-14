@@ -94,8 +94,8 @@ dunder-mifflin-analysis/
 
 ## Author
 
-[Your Name]
-Data Analyst Portfolio Project
+Buse Bircan
+Data Analytics Portfolio Project
 
 ## Disclaimer
 
